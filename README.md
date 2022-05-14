@@ -2,6 +2,9 @@
 
 A ride booking app UI
 
+Link to UI i used
+https://www.figma.com/file/9WJyS2zyZJb5ReOcMUxsLY/9JA-CABBIE-PROJECT
+
 ## Preview Images
 ![splashscreen.png](splashscreen.png)
 ![loginscreen.png](loginscreen.png)
